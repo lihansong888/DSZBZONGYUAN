@@ -12,7 +12,7 @@ URL_LIST = [
 
 # ========== 分组映射：左边是源里的分组名，右边是输出时改后的分组名 ==========
 GROUP_MAP = {
-    "hansong-hansong咪咕-央卫": "hansong咪咕-央卫直播",
+    "hansong咪咕-央卫": "hansong咪咕-央卫直播",
     "hansong-央卫直播": "hansong-央卫直播",
     "hansong-音乐直播": "hansong-音乐直播",
     "hansong虎牙原创": "hansong虎牙原创",
