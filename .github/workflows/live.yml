@@ -1,5 +1,4 @@
 name: Sync zongyuan Source
-
 on:
   push:
     branches: [ main ]
