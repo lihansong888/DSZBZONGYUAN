@@ -17,6 +17,8 @@ GROUP_MAP = {
     "hansong-音乐直播": "hansong-音乐直播",
     "hansong虎牙原创": "hansong虎牙原创",
     "hansong虎牙一起看": "hansong虎牙一起看",
+    "hansong国内景区直播": "hansong国内景区直播",
+    
 }
 
 def parse_any(text: str):
