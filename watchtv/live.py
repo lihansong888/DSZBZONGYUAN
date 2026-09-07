@@ -7,6 +7,7 @@ import os
 URL_LIST = [
     "https://raw.githubusercontent.com/lihansong888/DSZBYS/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBHY/refs/heads/main/watchtv/live.m3u8",
+    "https://raw.githubusercontent.com/lihansong888/DSZBGAT/refs/heads/main/watchtv/live.m3u8",
     
 ]
 
@@ -14,6 +15,8 @@ URL_LIST = [
 GROUP_MAP = {
     "hansong咪咕-央卫": "hansong咪咕-央卫",
     "hansong-央卫直播": "hansong-央卫直播",
+    "hansong地方台": "hansong地方台",
+    "hansong港澳台": "hansong港澳台",
     "hansong-音乐直播": "hansong-音乐直播",
     "hansong虎牙原创": "hansong虎牙原创",
     "hansong虎牙一起看": "hansong虎牙一起看",
