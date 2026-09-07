@@ -2,7 +2,6 @@ import requests
 import re
 import os
 
-
 # ========== 填写源的地址 ==========
 URL_LIST = [
     "https://raw.githubusercontent.com/lihansong888/DSZBYS/refs/heads/main/watchtv/live.m3u8",
