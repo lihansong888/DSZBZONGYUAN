@@ -7,6 +7,7 @@ URL_LIST = [
     "https://raw.githubusercontent.com/lihansong888/DSZBYS/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBHY/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBGAT/refs/heads/main/watchtv/live.m3u8",
+    "https://raw.githubusercontent.com/lihansong888/DSZBDY/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBYF/refs/heads/main/watchtv/live.m3u8",
     
 ]
@@ -22,6 +23,8 @@ GROUP_MAP = {
     "hansong-音乐直播": "hansong-音乐直播",
     "hansong虎牙原创": "hansong虎牙原创",
     "hansong虎牙一起看": "hansong虎牙一起看",
+    "hansong斗鱼原创": "hansong斗鱼原创",
+    "hansong斗鱼一起看": "hansong斗鱼一起看",
     "hansong国内景区直播": "hansong国内景区直播",
     
 }
