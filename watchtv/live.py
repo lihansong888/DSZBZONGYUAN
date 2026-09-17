@@ -8,6 +8,7 @@ URL_LIST = [
     "https://raw.githubusercontent.com/lihansong888/DSZBHY/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBGAT/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBDFT/refs/heads/main/watchtv/live.m3u8",
+    "https://raw.githubusercontent.com/lihansong888/DSZBFYGAT/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZByangwei/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBDY/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBYYZB/refs/heads/main/watchtv/live.m3u8",
@@ -17,20 +18,21 @@ URL_LIST = [
 
 # ========== 分组映射：左边是源里的分组名，右边是输出时改后的分组名 ==========
 GROUP_MAP = {
-    "hansong央视频道": "hansong央视频道",
-    "hansong卫视频道": "hansong卫视频道",
-    "hansong咪咕-央卫": "hansong咪咕-央卫",
-    "hansong-央卫直播": "hansong-央卫直播",
-    "hansong地方台": "hansong地方台",
-    "hansong国内地方": "hansong国内地方",
-    "hansong港澳台": "hansong港澳台",
-    "hansong急速港澳台": "hansong急速港澳台",
-    "hansong-音乐直播": "hansong-音乐直播",
-    "hansong虎牙原创": "hansong虎牙原创",
-    "hansong虎牙一起看": "hansong虎牙一起看",
-    "hansong斗鱼原创": "hansong斗鱼原创",
-    "hansong斗鱼一起看": "hansong斗鱼一起看",
-    "hansongYY一起看": "hansongYY一起看",
+    "hansong央视频道": "HS央视频道",
+    "hansong卫视频道": "HS卫视频道",
+    "hansong咪咕-央卫": "HS咪咕-央卫",
+    "hansong-央卫直播": "HS央卫直播",
+    "hansong地方台": "HS地方台",
+    "hansong国内地方": "HS国内地方",
+    "hansong港澳台": "HS港澳台",
+    "HS风云极速": "HS风云极速",
+    "hansong急速港澳台": "HS急速港澳台",
+    "hansong-音乐直播": "HS音乐直播",
+    "hansong虎牙原创": "HS虎牙原创",
+    "hansong虎牙一起看": "HS虎牙一起看",
+    "hansong斗鱼原创": "HS斗鱼原创",
+    "hansong斗鱼一起看": "HS斗鱼一起看",
+    "hansongYY一起看": "HS-YY一起看",
     
     
 }
