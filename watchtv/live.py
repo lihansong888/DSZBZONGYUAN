@@ -20,7 +20,6 @@ GROUP_MAP = {
     "hansong央视频道": "hansong央视频道",
     "hansong卫视频道": "hansong卫视频道",
     "hansong咪咕-央卫": "hansong咪咕-央卫",
-    "hansong急速央卫": "hansong急速央卫",
     "hansong-央卫直播": "hansong-央卫直播",
     "hansong地方台": "hansong地方台",
     "hansong国内地方": "hansong国内地方",
@@ -32,7 +31,7 @@ GROUP_MAP = {
     "hansong斗鱼原创": "hansong斗鱼原创",
     "hansong斗鱼一起看": "hansong斗鱼一起看",
     "hansongYY一起看": "hansongYY一起看",
-    "hansong国内景区直播": "hansong国内景区直播",
+    
     
 }
 
