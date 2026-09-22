@@ -34,6 +34,7 @@ GROUP_MAP = {
     "hansong急速港澳台": "HS急速港澳台",
     "hansong-音乐直播": "HS音乐直播",
     "HS数字频道": "HS数字频道",
+    "HS爱奇艺频道": "HS爱奇艺频道",
     "hansong虎牙原创": "HS虎牙原创",
     "hansong虎牙一起看": "HS虎牙一起看",
     "hansong斗鱼原创": "HS斗鱼原创",
