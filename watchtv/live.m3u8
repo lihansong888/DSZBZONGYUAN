@@ -10377,6 +10377,16 @@ http://115.171.216.32:4000/rtp/225.1.8.240:4120$北京电信11
 http://221.220.129.160:8012/rtp/239.3.1.80:4120$北京联通11
 #EXTINF:-1 group-title="HS数字频道",华数动画
 http://111.196.130.52:20000/rtp/239.3.1.80:4120$北京联通21
+#EXTINF:-1 group-title="HS爱奇艺频道",古装妖魔
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
+#EXTINF:-1 group-title="HS爱奇艺频道",家庭剧场
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
+#EXTINF:-1 group-title="HS爱奇艺频道",泰语剧场
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?d
+#EXTINF:-1 group-title="HS爱奇艺频道",大家剧场
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
+#EXTINF:-1 group-title="HS爱奇艺频道",爱情生活
+http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
 #EXTINF:-1 group-title="HS虎牙原创",新橙記Orange丶
 https://live.ottiptv.cc/huya/30590779
 #EXTINF:-1 group-title="HS虎牙原创",伊太刀
