@@ -29,7 +29,7 @@ GROUP_MAP = {
     "hansong地方台": "HS地方台",
     "hansong国内地方": "HS国内地方",
     "hansong港澳台": "HS港澳台",
-    "HS风云极速": "HS风云极速",
+    "HS風雲港澳臺頻道": "HS風雲港澳臺頻道",
     "HS港台FYtv": "HS港台FYtv",
     "hansong急速港澳台": "HS急速港澳台",
     "hansong-音乐直播": "HS音乐直播",
