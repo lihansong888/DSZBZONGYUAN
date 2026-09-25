@@ -44,7 +44,7 @@ GROUP_MAP = {
 }
 # ===================== 新增：存活检测配置（仅新增，不改动原有逻辑） =====================
 CHECK_TIMEOUT = 5
-MAX_WORKERS = 8
+MAX_WORKERS = 5
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
