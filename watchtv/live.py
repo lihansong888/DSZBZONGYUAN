@@ -1,7 +1,7 @@
 import requests
 import re
 import os
-
+import concurrent.futures
 # ========== 填写源的地址 ==========
 URL_LIST = [
     "https://raw.githubusercontent.com/lihansong888/DSZBYS/refs/heads/main/watchtv/live.m3u8",
@@ -18,7 +18,6 @@ URL_LIST = [
     "https://raw.githubusercontent.com/lihansong888/DSZBYF/refs/heads/main/watchtv/live.m3u8",
     
 ]
-
 # ========== 分组映射：左边是源里的分组名，右边是输出时改后的分组名 ==========
 GROUP_MAP = {
     "hansong央视频道": "HS央视频道",
@@ -43,6 +42,30 @@ GROUP_MAP = {
     
     
 }
+# ===================== 新增：存活检测配置（仅新增，不改动原有逻辑） =====================
+CHECK_TIMEOUT = 5
+MAX_WORKERS = 8
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+}
+
+def is_url_alive(play_url: str) -> bool:
+    """新增：检测链接是否存活"""
+    try:
+        resp = requests.head(play_url, timeout=CHECK_TIMEOUT, headers=HEADERS, allow_redirects=True)
+        if resp.status_code == 200:
+            return True
+    except requests.exceptions.RequestException:
+        pass
+    try:
+        resp = requests.get(play_url, timeout=CHECK_TIMEOUT, headers=HEADERS, allow_redirects=True, stream=True)
+        resp.raw.read(1024)
+        if resp.status_code == 200:
+            return True
+    except requests.exceptions.RequestException:
+        return False
+    return False
+# ========================================================================================
 
 def parse_any(text: str):
     res = []
@@ -88,6 +111,8 @@ def main():
     # 用改后的分组名初始化空列表
     group_bucket = {v: [] for v in GROUP_MAP.values()}
     seen = set()
+    all_candidate = []
+    # ========= 原有拉取、解析、分组过滤、去重逻辑【完全原样保留】 =========
     for url in URL_LIST:
         try:
             resp = requests.get(url, timeout=15)
@@ -104,14 +129,33 @@ def main():
                 item_key = (ch_name, play_url)
                 if item_key not in seen:
                     seen.add(item_key)
-                    group_bucket[output_group].append((ch_name, play_url))
+                    all_candidate.append((output_group, ch_name, play_url))
         except Exception as e:
             print(f"⚠️ 拉取 {url} 失败：{e}")
+
+    # ==================== 新增：并发存活检测筛选（只在这里插入新功能） ====================
+    print(f"\n🔍 开始存活检测，待检测总数：{len(all_candidate)}")
+    valid_items = []
+    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        future_map = {executor.submit(is_url_alive, item[2]): item for item in all_candidate}
+        for future in concurrent.futures.as_completed(future_map):
+            group_name, ch_name, play_url = future_map[future]
+            try:
+                alive = future.result()
+                if alive:
+                    valid_items.append((group_name, ch_name, play_url))
+            except Exception as e:
+                print(f"⚠️检测异常 {ch_name}: {e}")
+    # ======================================================================================
+
+    # 把检测通过的频道回填分组桶（原有写入逻辑不变）
+    for gname, cname, curl in valid_items:
+        group_bucket[gname].append((cname, curl))
+
     total_cnt = sum(len(v) for v in group_bucket.values())
-    print(f"✅筛选结束，共提取 {total_cnt} 个频道")
+    print(f"✅筛选结束，共提取 {total_cnt} 个存活频道")
     for gname, ch_list in group_bucket.items():
         print(f"  - {gname}: {len(ch_list)} 个频道")
-
     out_dir = os.path.dirname(os.path.abspath(__file__))
     output_m3u = ["#EXTM3U"]
     for gname, ch_list in group_bucket.items():
