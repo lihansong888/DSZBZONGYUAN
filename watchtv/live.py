@@ -16,6 +16,8 @@ URL_LIST = [
     "https://raw.githubusercontent.com/lihansong888/DSZBYYZB/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBYF/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBKULAO/refs/heads/main/watchtv/live.m3u8",
+    "https://lihansong.top/IPTVdaili/zh.txt",
+    
     
     
 ]
@@ -31,6 +33,8 @@ GROUP_MAP = {
     "hansong港澳台": "HS港澳台",
     "HS風雲港澳臺頻道": "HS風雲港澳臺頻道",
     "HS港台FYtv": "HS港台FYtv",
+    "HS极速港台": "HS极速港台",
+    
     "HS体育赛事实况": "HS体育赛事实况",
     "hansong急速港澳台": "HS急速港澳台",
     "hansong-音乐直播": "HS音乐直播",
