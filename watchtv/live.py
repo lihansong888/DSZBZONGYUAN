@@ -5,7 +5,6 @@ import os
 URL_LIST = [
     "https://raw.githubusercontent.com/lihansong888/DSZBYS/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBHY/refs/heads/main/watchtv/live.m3u8",
-    "https://raw.githubusercontent.com/lihansong888/DSZBGAT/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBDFT/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBSZPD/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBFENGYUNZHIBO/refs/heads/main/watchtv/live.m3u8",
@@ -27,9 +26,7 @@ GROUP_MAP = {
     "hansong咪咕-央卫": "HS咪咕-央卫",
     "HS央卫IPTV": "HS央卫IPTV",
     "hansong-央卫直播": "HS央卫直播",
-    "hansong地方台": "HS地方台",
     "hansong国内地方": "HS国内地方",
-    "hansong港澳台": "HS港澳台",
     "HS風雲港澳臺頻道": "HS風雲港澳臺頻道",
     "HS体育赛事实况": "HS体育赛事实况",
     "hansong急速港澳台": "HS急速港澳台",
