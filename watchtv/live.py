@@ -8,7 +8,6 @@ URL_LIST = [
     "https://raw.githubusercontent.com/lihansong888/DSZBGAT/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBDFT/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBSZPD/refs/heads/main/watchtv/live.m3u8",
-    "https://raw.githubusercontent.com/lihansong888/DSZBFYTV/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBFENGYUNZHIBO/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZByangwei/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBDSJ/refs/heads/main/watchtv/live.m3u8",
@@ -32,7 +31,7 @@ GROUP_MAP = {
     "hansong国内地方": "HS国内地方",
     "hansong港澳台": "HS港澳台",
     "HS風雲港澳臺頻道": "HS風雲港澳臺頻道",
-    "HS港台FYtv": "HS港台FYtv",
+    
     "HS极速港台": "HS极速港台",
     
     "HS体育赛事实况": "HS体育赛事实况",
