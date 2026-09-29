@@ -23,7 +23,7 @@ URL_LIST = [
 GROUP_MAP = {
     "hansong央视频道": "HS央视频道",
     "hansong卫视频道": "HS卫视频道",
-    "hansong咪咕-央卫": "HS咪咕-央卫",
+    #"hansong咪咕-央卫": "HS咪咕-央卫",
     "HS央卫IPTV": "HS央卫IPTV",
     "hansong-央卫直播": "HS央卫直播",
     "hansong国内地方": "HS国内地方",
