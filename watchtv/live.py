@@ -14,6 +14,7 @@ URL_LIST = [
     "https://raw.githubusercontent.com/lihansong888/DSZBYYZB/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBKULAO/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBGATheji/refs/heads/main/watchtv/live.m3u8",
+    "https://raw.githubusercontent.com/lihansong888/DSZBKULAOER/refs/heads/main/watchtv/live.m3u8",
     
     
     
@@ -23,7 +24,7 @@ URL_LIST = [
 GROUP_MAP = {
     "hansong央视频道": "HS央视频道",
     "hansong卫视频道": "HS卫视频道",
-    #"hansong咪咕-央卫": "HS咪咕-央卫",
+    "HS咪咕央卫直播": "HS咪咕央卫直播",
     "HS央卫IPTV": "HS央卫IPTV",
     "hansong-央卫直播": "HS央卫直播",
     "hansong国内地方": "HS国内地方",
@@ -32,12 +33,14 @@ GROUP_MAP = {
     "hansong-音乐直播": "HS音乐直播",
     "HS数字频道": "HS数字频道",
     "HS港澳台直播频道": "HS港澳台直播频道",
-    "HS爱奇艺频道": "HS爱奇艺频道",
+    "HS爱奇艺直播频道": "HS爱奇艺直播频道",
+    #"HS爱奇艺频道": "HS爱奇艺频道",
     "hansong虎牙原创": "HS虎牙原创",
     "hansong虎牙一起看": "HS虎牙一起看",
     "hansong斗鱼原创": "HS斗鱼原创",
     "hansong斗鱼一起看": "HS斗鱼一起看",
     "hansongYY一起看": "HS-YY一起看",
+    "HS纪录片直播": "HS纪录片直播",
     
     
 }
