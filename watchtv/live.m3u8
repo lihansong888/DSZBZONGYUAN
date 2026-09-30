@@ -10593,6 +10593,54 @@ http://115.171.216.23:4000/rtp/225.1.8.240:4120$北京电信11
 http://115.171.216.32:4000/rtp/225.1.8.240:4120$北京电信21
 #EXTINF:-1 group-title="HS数字频道",华数动画
 http://111.196.130.121:20000/rtp/239.3.1.80:4120$北京联通31
+#EXTINF:-1 group-title="HS数字频道二线",求索纪录
+http://192.187.124.34:81/live/qsjl.m3u8
+#EXTINF:-1 group-title="HS数字频道二线",求索动物
+http://192.187.124.34:81/live/qsdw.m3u8
+#EXTINF:-1 group-title="HS数字频道二线",求索海淘
+http://192.187.124.34:81/live/qskx.m3u8
+#EXTINF:-1 group-title="HS数字频道二线",求索生活
+http://192.187.124.34:81/live/qssh.m3u8
+#EXTINF:-1 group-title="HS数字频道二线",精彩影视
+http://192.187.124.34:81/live/hsjcys.m3u8
+#EXTINF:-1 group-title="HS数字频道二线",风尚音乐
+http://192.187.124.34:81/live/hsfsyy.m3u8
+#EXTINF:-1 group-title="HS数字频道二线",精品剧场
+http://192.187.124.34:81/live/hsjpjc.m3u8
+#EXTINF:-1 group-title="HS数字频道二线",欧美影院
+http://192.187.124.34:81/live/hsomyy.m3u8
+#EXTINF:-1 group-title="HS数字频道二线",少儿动漫
+http://192.187.124.34:81/live/hssedm.m3u8
+#EXTINF:-1 group-title="HS数字频道二线",探索纪录
+http://192.187.124.34:81/live/hstsjl.m3u8
+#EXTINF:-1 group-title="HS数字频道二线",亚洲影院
+http://192.187.124.34:81/live/hsyzyy.m3u8
+#EXTINF:-1 group-title="HS数字频道二线",IHOT爱院线
+http://192.187.124.34:81/live/ihotayx.m3u8
+#EXTINF:-1 group-title="HS数字频道二线",睛彩广场舞
+http://192.187.124.34:81/live/jcgcw.m3u8
+#EXTINF:-1 group-title="HS数字频道二线",睛彩竞技
+http://192.187.124.34:81/live/jcjj.m3u8
+#EXTINF:-1 group-title="HS数字频道二线",睛彩青少
+http://192.187.124.34:81/live/jcqs.m3u8
+#EXTINF:-1 group-title="HS数字频道二线",睛彩篮球
+http://192.187.124.34:81/live/jclq.m3u8
+#EXTINF:-1 group-title="HS短剧直播",短剧无极限
+https://huyazhibo.de5.net/?id=31001847
+#EXTINF:-1 group-title="HS短剧直播",陈翔六点半
+https://huyazhibo.de5.net/?id=11274154
+#EXTINF:-1 group-title="HS短剧直播",人生回答机本机
+http://live.nctv.top/douyu1.php?id=9409722
+#EXTINF:-1 group-title="HS短剧直播",郑云工作室
+http://live.nctv.top/douyu1.php?id=2995636
+#EXTINF:-1 group-title="HS短剧直播",王Li差点红
+http://live.nctv.top/douyu1.php?id=9348469
+#EXTINF:-1 group-title="HS短剧直播",哈利影视
+http://live.nctv.top/douyu1.php?id=8475821
+#EXTINF:-1 group-title="HS短剧直播",不思异剧场
+http://live.nctv.top/douyu1.php?id=9297412
+#EXTINF:-1 group-title="HS短剧直播",经典短剧
+https://down-hls.qxiu.com/live/455246/index.m3u8
 #EXTINF:-1 group-title="HS港澳台直播频道",凤凰中文
 http://120.237.39.10:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 group-title="HS港澳台直播频道",凤凰资讯
