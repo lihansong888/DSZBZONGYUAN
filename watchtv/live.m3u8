@@ -10717,8 +10717,6 @@ http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
 http://120.198.95.220:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 group-title="HS港澳台直播频道",TVB星河
 http://120.198.95.220:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 group-title="HS港澳台直播频道",温馨提醒:设置超时30秒最佳
-https://gh-proxy.org/https://github.com/bang359/dsj/raw/main/dashang.mp4
 #EXTINF:-1 group-title="HS港澳台直播频道",中天新闻
 https://my5353.com/ztxw
 #EXTINF:-1 group-title="HS港澳台直播频道",寰宇新闻
