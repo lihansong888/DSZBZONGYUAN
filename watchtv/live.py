@@ -14,7 +14,7 @@ URL_LIST = [
     "https://raw.githubusercontent.com/lihansong888/DSZBYYZB/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBGATheji/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBKULAOER/refs/heads/main/watchtv/live.m3u8",
-    
+    "https://lihansong.top/IPTVdaili/zh.txt",
     
     
     
@@ -32,6 +32,8 @@ GROUP_MAP = {
     "HS数字频道": "HS数字频道",
     "HS数字频道二线": "HS数字频道二线",
     "HS短剧直播": "HS短剧直播",
+    "HS极速代理": "HS极速代理",
+    
     "HS港澳台直播频道": "HS港澳台直播频道",
     "HS爱奇艺直播频道": "HS爱奇艺直播频道",
     "HS爱奇艺频道": "HS爱奇艺直播频道",
