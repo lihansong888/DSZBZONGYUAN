@@ -15,6 +15,7 @@ URL_LIST = [
     "https://raw.githubusercontent.com/lihansong888/DSZBGATheji/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBKULAOER/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBZONGYUAN/refs/heads/main/watchtv/daili.txt",
+    "https://raw.githubusercontent.com/lihansong888/DSZBYANGWEITWO/refs/heads/main/watchtv/live.m3u8",
     
     
     
@@ -23,6 +24,8 @@ URL_LIST = [
 GROUP_MAP = {
     "HS咪咕央卫直播": "HS咪咕央卫直播",
     "hansong央视频道": "HS央视频道",
+    "HS央视频道": "HS央视频道",
+    "HS卫视频道": "HS卫视频道",
     "hansong卫视频道": "HS卫视频道",
     "HS央卫IPTV": "HS央卫IPTV",
     "hansong-央卫直播": "HS央卫直播",
