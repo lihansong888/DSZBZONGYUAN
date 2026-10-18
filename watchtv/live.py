@@ -13,6 +13,7 @@ URL_LIST = [
     "https://raw.githubusercontent.com/lihansong888/DSZBDY/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBYYZB/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBGATheji/refs/heads/main/watchtv/live.m3u8",
+    # ========== 2026.10.18以下OK ==========
     "https://raw.githubusercontent.com/lihansong888/DSZBKULAOER/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBZONGYUAN/refs/heads/main/watchtv/daili.txt",
     # ========== 2026.10.18以下OK ==========
@@ -42,7 +43,7 @@ GROUP_MAP = {
     "HSali云": "HSali云",
     "HS港澳台直播频道": "HS港澳台直播频道",
     "HS港澳台直播": "测试专区",
-    
+    "HS休闲频道": "HS休闲频道",
     "HS爱奇艺直播频道": "HS爱奇艺直播频道",
     "HS爱奇艺频道": "HS爱奇艺直播频道",
     "hansong虎牙原创": "HS虎牙原创",
