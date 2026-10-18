@@ -15,6 +15,7 @@ URL_LIST = [
     "https://raw.githubusercontent.com/lihansong888/DSZBGATheji/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBKULAOER/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBZONGYUAN/refs/heads/main/watchtv/daili.txt",
+    # ========== 2026.10.18以下OK ==========
     "https://raw.githubusercontent.com/lihansong888/DSZBYANGWEITWO/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBMIGU/refs/heads/main/watchtv/live.m3u8",
     
