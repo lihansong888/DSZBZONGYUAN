@@ -14771,6 +14771,54 @@ http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed?
 https://stream.hrbtv.net/shpd/sd/live.m3u8
 #EXTINF:-1 group-title="测试专区",CCTVnews
 http://1b6467f415.iok.la:9931/tsfile/live/1036_1.m3u8
+#EXTINF:-1 group-title="HS休闲频道",戏剧影视
+http://xatv-yt.xiancity.cn/live/4/index.m3u8
+#EXTINF:-1 group-title="HS休闲频道",点掌财经
+https://volcanopull.aniu.tv/live/aniu2/index.m3u8
+#EXTINF:-1 group-title="HS休闲频道",梨园频道
+https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=ebea42451370372b34e6343654e5d4d6&wsTime=1791193106
+#EXTINF:-1 group-title="HS休闲频道",文物宝库
+https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=6922e4aa61479359bf7dcda431f5cf5a&wsTime=1791193106
+#EXTINF:-1 group-title="HS休闲频道",河南曲艺
+https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=6f6b8b9a1922615c71ca23ed49ac3b65&wsTime=1791193106
+#EXTINF:-1 group-title="HS休闲频道",女团社颜老师
+http://live.nctv.top/douyu1.php?id=11327316
+#EXTINF:-1 group-title="HS休闲频道",7师傅
+http://live.nctv.top/douyu1.php?id=17732
+#EXTINF:-1 group-title="HS休闲频道",彼岸零可星球
+http://live.nctv.top/douyu1.php?id=40471
+#EXTINF:-1 group-title="HS休闲频道",睡丝虫
+http://live.nctv.top/douyu1.php?id=10308234
+#EXTINF:-1 group-title="HS休闲频道",崔杋圭五颜一
+http://live.nctv.top/douyu1.php?id=8189873
+#EXTINF:-1 group-title="HS休闲频道",顾止最爱的小胖宝贝
+http://live.nctv.top/douyu1.php?id=238643
+#EXTINF:-1 group-title="HS休闲频道",少打白骨精
+http://live.nctv.top/douyu1.php?id=11531165
+#EXTINF:-1 group-title="HS休闲频道",爱爱小s
+http://live.nctv.top/douyu1.php?id=10308312
+#EXTINF:-1 group-title="HS休闲频道",敢来碰我
+http://live.nctv.top/douyu1.php?id=10308225
+#EXTINF:-1 group-title="HS休闲频道",钓鱼欧尼
+http://live.nctv.top/douyu1.php?id=10616765
+#EXTINF:-1 group-title="HS休闲频道",怠惰守夜
+http://live.nctv.top/douyu1.php?id=8842108
+#EXTINF:-1 group-title="HS休闲频道",快乐的小波子
+http://live.nctv.top/douyu1.php?id=9039399
+#EXTINF:-1 group-title="HS休闲频道",老高与小茉
+http://live.nctv.top/douyu1.php?id=236461
+#EXTINF:-1 group-title="HS休闲频道",自说自话的总裁
+http://live.nctv.top/douyu1.php?id=9317739
+#EXTINF:-1 group-title="HS休闲频道",悉奇
+http://live.nctv.top/douyu1.php?id=9401473
+#EXTINF:-1 group-title="HS休闲频道",纳豆奶奶
+http://live.nctv.top/douyu1.php?id=8745628
+#EXTINF:-1 group-title="HS休闲频道",黄栗子Ye
+http://live.nctv.top/douyu1.php?id=9046097
+#EXTINF:-1 group-title="HS休闲频道",电视这个圈子
+http://live.nctv.top/douyu1.php?id=9425669
+#EXTINF:-1 group-title="HS休闲频道",火宗君
+http://live.nctv.top/douyu1.php?id=9580477
 #EXTINF:-1 group-title="HS爱奇艺直播频道",古装妖魔
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
 #EXTINF:-1 group-title="HS爱奇艺直播频道",家庭剧场
