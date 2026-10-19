@@ -4,13 +4,19 @@ import os
 # ========== 填写源的地址 ==========
 URL_LIST = [
     "https://raw.githubusercontent.com/lihansong888/DSZBYS/refs/heads/main/watchtv/live.m3u8",
+    # ========== 2026.10.19以下OK ==========
     "https://raw.githubusercontent.com/lihansong888/DSZBHY/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBDFT/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBSZPD/refs/heads/main/watchtv/live.m3u8",
+    # ========== 2026.10.19以下OK-handdong ==========
     "https://raw.githubusercontent.com/lihansong888/DSZBFENGYUNZHIBO/refs/heads/main/watchtv/live.m3u8",
+    
     "https://raw.githubusercontent.com/lihansong888/DSZByangwei/refs/heads/main/watchtv/live.m3u8",
+    # ========== 2026.10.19以下OK ==========
     "https://raw.githubusercontent.com/lihansong888/DSZBDSJ/refs/heads/main/watchtv/live.m3u8",
+    # ========== 2026.10.19以下OK ==========
     "https://raw.githubusercontent.com/lihansong888/DSZBDY/refs/heads/main/watchtv/live.m3u8",
+    # ========== 2026.10.19以下OK ==========
     "https://raw.githubusercontent.com/lihansong888/DSZBYYZB/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBGATheji/refs/heads/main/watchtv/live.m3u8",
     # ========== 2026.10.18以下OK ==========
@@ -34,6 +40,7 @@ GROUP_MAP = {
     "HS央卫IPTV": "HS央卫IPTV",
     "hansong-央卫直播": "HS央卫直播",
     "hansong国内地方": "HS国内地方",
+    "地方频道": "HS国内地方",
     "地方台": "HS国内地方",
     "HS風雲港澳臺頻道": "HS風雲港澳臺頻道",
     "hansong-音乐直播": "HS音乐直播",
