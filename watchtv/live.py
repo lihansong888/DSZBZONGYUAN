@@ -6,7 +6,9 @@ URL_LIST = [
     "https://raw.githubusercontent.com/lihansong888/DSZBYS/refs/heads/main/watchtv/live.m3u8",
     # ========== 2026.10.19以下OK ==========
     "https://raw.githubusercontent.com/lihansong888/DSZBHY/refs/heads/main/watchtv/live.m3u8",
+    # ========== 2026.10.19以下OK ==========
     "https://raw.githubusercontent.com/lihansong888/DSZBDFT/refs/heads/main/watchtv/live.m3u8",
+    # ========== 2026.10.19以下OK ==========
     "https://raw.githubusercontent.com/lihansong888/DSZBSZPD/refs/heads/main/watchtv/live.m3u8",
     # ========== 2026.10.19以下OK-handdong ==========
     "https://raw.githubusercontent.com/lihansong888/DSZBFENGYUNZHIBO/refs/heads/main/watchtv/live.m3u8",
@@ -32,7 +34,7 @@ URL_LIST = [
 # ========== 分组映射：左边是源里的分组名，右边是输出时改后的分组名 ==========
 GROUP_MAP = {
     "HS咪咕央卫直播": "HS咪咕央卫直播",
-    
+     "咪咕央卫": "HS咪咕央卫直播",
     "hansong央视频道": "HS央视频道",
     "HS央视频道": "HS央视频道",
     "HS卫视频道": "HS卫视频道",
