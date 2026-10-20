@@ -1,8 +1,9 @@
-name: Sync zongyuan Source
+name: Sync CR Source
+
 on:
   push:
     branches: [ main ]
-    paths:http://lihansong.top/IPTVdaili/ceshi.txt
+    paths:
       - 'watchtv/live.py'
       - '.github/workflows/live.yml'
   workflow_dispatch:
