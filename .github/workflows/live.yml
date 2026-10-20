@@ -2,12 +2,12 @@ name: Sync zongyuan Source
 on:
   push:
     branches: [ main ]
-    paths:
+    paths:http://lihansong.top/IPTVdaili/ceshi.txt
       - 'watchtv/live.py'
       - '.github/workflows/live.yml'
   workflow_dispatch:
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '0 */5 * * *'
 
 jobs:
   sync:
