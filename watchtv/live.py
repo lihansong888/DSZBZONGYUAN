@@ -12,6 +12,7 @@ URL_LIST = [
     "https://raw.githubusercontent.com/lihansong888/DSZBSZPD/refs/heads/main/watchtv/live.m3u8",
     # ========== 2026.10.19以下OK-handdong ==========
     "https://raw.githubusercontent.com/lihansong888/DSZBFENGYUNZHIBO/refs/heads/main/watchtv/live.m3u8",
+    "https://raw.githubusercontent.com/lihansong888/DSZBxianggangtaiwan/refs/heads/main/watchtv/live.m3u8",
     
     "https://raw.githubusercontent.com/lihansong888/DSZByangwei/refs/heads/main/watchtv/live.m3u8",
     # ========== 2026.10.19以下OK ==========
