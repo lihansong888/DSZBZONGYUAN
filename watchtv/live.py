@@ -28,6 +28,7 @@ URL_LIST = [
     # ========== 2026.10.18以下OK ==========
     "https://raw.githubusercontent.com/lihansong888/DSZBYANGWEITWO/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBMIGU/refs/heads/main/watchtv/live.m3u8",
+    "https://raw.githubusercontent.com/lihansong888/DSZBZUBOYUAN/refs/heads/main/watchtv/live.m3u8",
     
     
     
@@ -46,6 +47,7 @@ GROUP_MAP = {
     "hansong卫视频道": "HS卫视频道",
     "HS央卫IPTV": "HS央卫IPTV",
     "Free-TV/IPTV": "HS央卫IPTV",
+    "IPTV组播源": "HSIPTV组播",
     
     "咪咕央卫": "HS央卫直播",
     "hansong-央卫直播": "HS央卫直播",
