@@ -5,7 +5,7 @@ import os
 URL_LIST = [
     "https://raw.githubusercontent.com/lihansong888/DSZBYS/refs/heads/main/watchtv/live.m3u8",
     # ========== 2026.10.19以下OK ==========
-    "https://raw.githubusercontent.com/lihansong888/DSZBHY/refs/heads/main/watchtv/live.m3u8",
+    "https://raw.githubusercontent.com/lihansong888/DSZBHY/refs/heads/main/watchtv/huya.m3u8",
     # ========== 2026.10.19以下OK ==========
     "https://raw.githubusercontent.com/lihansong888/DSZBDFT/refs/heads/main/watchtv/live.m3u8",
     # ========== 2026.10.19以下OK ==========
@@ -18,9 +18,9 @@ URL_LIST = [
     # ========== 2026.10.19以下OK ==========
     "https://raw.githubusercontent.com/lihansong888/DSZBDSJ/refs/heads/main/watchtv/live.m3u8",
     # ========== 2026.10.19以下OK ==========
-    "https://raw.githubusercontent.com/lihansong888/DSZBDY/refs/heads/main/watchtv/live.m3u8",
+    "https://raw.githubusercontent.com/lihansong888/DSZBHY/refs/heads/main/watchtv/douyu.m3u8",
     # ========== 2026.10.19以下OK ==========
-    "https://raw.githubusercontent.com/lihansong888/DSZBYYZB/refs/heads/main/watchtv/live.m3u8",
+    "https://raw.githubusercontent.com/lihansong888/DSZBHY/refs/heads/main/watchtv/yy.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBGATheji/refs/heads/main/watchtv/live.m3u8",
     # ========== 2026.10.18以下OK ==========
     "https://raw.githubusercontent.com/lihansong888/DSZBKULAOER/refs/heads/main/watchtv/live.m3u8",
