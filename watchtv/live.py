@@ -45,6 +45,8 @@ GROUP_MAP = {
     
     "hansong卫视频道": "HS卫视频道",
     "HS央卫IPTV": "HS央卫IPTV",
+    "Free-TV/IPTV": "HS央卫IPTV",
+    
     "咪咕央卫": "HS央卫直播",
     "hansong-央卫直播": "HS央卫直播",
     "hansong国内地方": "HS国内地方",
