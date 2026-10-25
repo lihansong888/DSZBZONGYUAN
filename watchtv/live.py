@@ -36,6 +36,7 @@ URL_LIST = [
 # ========== 分组映射：左边是源里的分组名，右边是输出时改后的分组名 ==========
 GROUP_MAP = {
     "HS咪咕央卫直播": "HS咪咕央卫直播",
+    "HS咪咕": "HS咪咕央卫直播",
      
     "hansong央视频道": "HS央视频道",
     "HS央视频道": "HS央视频道",
@@ -48,6 +49,7 @@ GROUP_MAP = {
     "HS央卫IPTV": "HS央卫IPTV",
     "Free-TV/IPTV": "HS央卫IPTV",
     "IPTV组播源": "HSIPTV组播",
+    "Z视介": "HS-Z视介",
     
     "咪咕央卫": "HS央卫直播",
     "hansong-央卫直播": "HS央卫直播",
