@@ -21,7 +21,6 @@ URL_LIST = [
     "https://raw.githubusercontent.com/lihansong888/DSZBHY/refs/heads/main/watchtv/douyu.m3u8",
     # ========== 2026.10.19以下OK ==========
     "https://raw.githubusercontent.com/lihansong888/DSZBHY/refs/heads/main/watchtv/yy.m3u8",
-    "https://raw.githubusercontent.com/lihansong888/DSZBGATheji/refs/heads/main/watchtv/live.m3u8",
     # ========== 2026.10.18以下OK ==========
     "https://raw.githubusercontent.com/lihansong888/DSZBKULAOER/refs/heads/main/watchtv/live.m3u8",
     "https://raw.githubusercontent.com/lihansong888/DSZBZONGYUAN/refs/heads/main/watchtv/daili.txt",
@@ -61,7 +60,6 @@ GROUP_MAP = {
     "HS短剧直播": "HS短剧直播",
     "HS极速代理": "HS极速代理",
     "HSali云": "HSali云",
-    "HS港澳台直播频道": "HS港澳台直播频道",
     "香港台湾直播": "HS港澳台直播频道",
     
     "HS港澳台直播": "测试专区",
