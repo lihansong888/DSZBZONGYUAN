@@ -1747,6 +1747,40 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 http://101.66.194.176:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="HS央视频道",CCTV-16
 http://207.56.13.146:81/cdnlive/cctv16.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV1
+http://45.192.97.170:8880/play/389.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV2
+http://45.192.97.170:8880/play/390.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV3
+http://45.192.97.170:8880/play/391.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV4
+http://45.192.97.170:8880/play/392.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV5
+http://45.192.97.170:8880/play/393.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV5+
+http://45.192.97.170:8880/play/394.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV6
+http://45.192.97.170:8880/play/395.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV7
+http://45.192.97.170:8880/play/396.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV8
+http://45.192.97.170:8880/play/397.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV9
+http://45.192.97.170:8880/play/398.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV10
+http://45.192.97.170:8880/play/399.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV11
+http://45.192.97.170:8880/play/400.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV12
+http://45.192.97.170:8880/play/401.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV13
+http://45.192.97.170:8880/play/402.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV14
+http://45.192.97.170:8880/play/403.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV15
+http://45.192.97.170:8880/play/404.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV17
+http://45.192.97.170:8880/play/405.m3u8
 #EXTINF:-1 group-title="HS卫视频道",天津卫视
 http://36.136.38.87:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS卫视频道",广西卫视
@@ -9063,6 +9097,12 @@ http://114.254.35.125:8888/rtp/239.3.1.163:8001
 http://114.254.35.125:8888/rtp/239.3.1.154:8001
 #EXTINF:-1 group-title="HSIPTV组播",房山电视台
 http://114.254.35.125:8888/rtp/239.3.1.96:8001
+#EXTINF:-1 group-title="HSIPTV组播",华数喜剧影院
+http://114.254.35.125:8888/rtp/239.3.1.91:4120
+#EXTINF:-1 group-title="HSIPTV组播",华数热播剧场
+http://114.254.35.125:8888/rtp/239.3.1.194:9020
+#EXTINF:-1 group-title="HSIPTV组播",华数少儿动画
+http://114.254.35.125:8888/rtp/239.3.1.199:9000
 #EXTINF:-1 group-title="HSIPTV组播",IPTV国学
 http://114.254.35.125:8888/rtp/239.3.1.77:4120
 #EXTINF:-1 group-title="HSIPTV组播",IPTV收视指南
@@ -9729,6 +9769,218 @@ https://zwebl04.cztv.com/live/channel11720Pnew.m3u8?auth_key=1793377903245-0-0-8
 https://zwebl04.cztv.com/live/channel121080Pnew.m3u8?auth_key=1793377903786-0-0-6e7f329037d92989cf53db8bf821b306
 #EXTINF:-1 group-title="HS-Z视介",之江纪录
 https://zwebl04.cztv.com/live/channel12720Pnew.m3u8?auth_key=1793377903786-0-0-e9daae8823455bd1eb842a0167236464
+#EXTINF:-1 group-title="HS-咪世界",睛彩篮球
+http://45.192.97.170:8880/play/607.m3u8
+#EXTINF:-1 group-title="HS-咪世界",睛彩青少
+http://45.192.97.170:8880/play/608.m3u8
+#EXTINF:-1 group-title="HS-咪世界",睛彩广场舞
+http://45.192.97.170:8880/play/609.m3u8
+#EXTINF:-1 group-title="HS-咪世界",睛彩竞技
+http://45.192.97.170:8880/play/610.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-1
+http://45.192.97.170:8880/play/611.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-2
+http://45.192.97.170:8880/play/612.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-3
+http://45.192.97.170:8880/play/613.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-4
+http://45.192.97.170:8880/play/614.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-5
+http://45.192.97.170:8880/play/615.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-6
+http://45.192.97.170:8880/play/616.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-7
+http://45.192.97.170:8880/play/617.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-8
+http://45.192.97.170:8880/play/618.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-9
+http://45.192.97.170:8880/play/619.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-10
+http://45.192.97.170:8880/play/620.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-11
+http://45.192.97.170:8880/play/621.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-12
+http://45.192.97.170:8880/play/622.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-13
+http://45.192.97.170:8880/play/623.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-14
+http://45.192.97.170:8880/play/624.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-15
+http://45.192.97.170:8880/play/625.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-16
+http://45.192.97.170:8880/play/626.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-24
+http://45.192.97.170:8880/play/627.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-25
+http://45.192.97.170:8880/play/628.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-26
+http://45.192.97.170:8880/play/629.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-27
+http://45.192.97.170:8880/play/630.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-28
+http://45.192.97.170:8880/play/631.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-29
+http://45.192.97.170:8880/play/632.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-30
+http://45.192.97.170:8880/play/633.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-31
+http://45.192.97.170:8880/play/634.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-32
+http://45.192.97.170:8880/play/635.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-33
+http://45.192.97.170:8880/play/636.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-34
+http://45.192.97.170:8880/play/637.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-35
+http://45.192.97.170:8880/play/638.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-36
+http://45.192.97.170:8880/play/639.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-37
+http://45.192.97.170:8880/play/640.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-38
+http://45.192.97.170:8880/play/641.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-39
+http://45.192.97.170:8880/play/642.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-40
+http://45.192.97.170:8880/play/643.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-41
+http://45.192.97.170:8880/play/644.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-42
+http://45.192.97.170:8880/play/645.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-43
+http://45.192.97.170:8880/play/646.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-44
+http://45.192.97.170:8880/play/647.m3u8
+#EXTINF:-1 group-title="HS-咪世界",咪咕视频-45
+http://45.192.97.170:8880/play/648.m3u8
+#EXTINF:-1 group-title="HS央卫直播",萌萌家-NAS
+http://45.192.97.170:8880/play/65.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CCTV-1 综合
+http://45.192.97.170:8880/play/66.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CCTV-2 财经
+http://45.192.97.170:8880/play/67.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CCTV-3 综艺
+http://45.192.97.170:8880/play/68.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CCTV-4 中文国际
+http://45.192.97.170:8880/play/69.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CCTV-5 体育
+http://45.192.97.170:8880/play/70.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CCTV-5+ 体育赛事
+http://45.192.97.170:8880/play/71.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CCTV-6 电影
+http://45.192.97.170:8880/play/72.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CCTV-7 国防军事
+http://45.192.97.170:8880/play/73.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CCTV-8 电视剧
+http://45.192.97.170:8880/play/74.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CCTV-9 纪录
+http://45.192.97.170:8880/play/75.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CCTV-10 科教
+http://45.192.97.170:8880/play/76.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CCTV-11 戏曲
+http://45.192.97.170:8880/play/77.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CCTV-12 社会与法
+http://45.192.97.170:8880/play/78.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CCTV-13 新闻
+http://45.192.97.170:8880/play/79.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CCTV-14 少儿
+http://45.192.97.170:8880/play/80.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CCTV-15 音乐
+http://45.192.97.170:8880/play/81.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CCTV-16 奥林匹克
+http://45.192.97.170:8880/play/82.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CCTV-16 4K
+http://45.192.97.170:8880/play/83.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CCTV-17 农业农村
+http://45.192.97.170:8880/play/84.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CCTV-4K 超高清
+http://45.192.97.170:8880/play/85.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CCTV-8K 超高清
+http://45.192.97.170:8880/play/86.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CGTN
+http://45.192.97.170:8880/play/87.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CGTN 法语
+http://45.192.97.170:8880/play/88.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CGTN 俄语
+http://45.192.97.170:8880/play/89.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CGTN 阿拉伯语
+http://45.192.97.170:8880/play/90.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CGTN 西班牙语
+http://45.192.97.170:8880/play/91.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CGTN 纪录
+http://45.192.97.170:8880/play/92.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CCTV 风云剧场
+http://45.192.97.170:8880/play/93.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CCTV 第一剧场
+http://45.192.97.170:8880/play/94.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CCTV 怀旧剧场
+http://45.192.97.170:8880/play/95.m3u8
+#EXTINF:-1 group-title="HS央卫直播",北京卫视
+http://45.192.97.170:8880/play/96.m3u8
+#EXTINF:-1 group-title="HS央卫直播",江苏卫视
+http://45.192.97.170:8880/play/97.m3u8
+#EXTINF:-1 group-title="HS央卫直播",东方卫视
+http://45.192.97.170:8880/play/98.m3u8
+#EXTINF:-1 group-title="HS央卫直播",浙江卫视
+http://45.192.97.170:8880/play/99.m3u8
+#EXTINF:-1 group-title="HS央卫直播",湖南卫视
+http://45.192.97.170:8880/play/100.m3u8
+#EXTINF:-1 group-title="HS央卫直播",湖北卫视
+http://45.192.97.170:8880/play/101.m3u8
+#EXTINF:-1 group-title="HS央卫直播",广东卫视
+http://45.192.97.170:8880/play/102.m3u8
+#EXTINF:-1 group-title="HS央卫直播",广西卫视
+http://45.192.97.170:8880/play/103.m3u8
+#EXTINF:-1 group-title="HS央卫直播",黑龙江卫视
+http://45.192.97.170:8880/play/104.m3u8
+#EXTINF:-1 group-title="HS央卫直播",海南卫视
+http://45.192.97.170:8880/play/105.m3u8
+#EXTINF:-1 group-title="HS央卫直播",重庆卫视
+http://45.192.97.170:8880/play/106.m3u8
+#EXTINF:-1 group-title="HS央卫直播",深圳卫视
+http://45.192.97.170:8880/play/107.m3u8
+#EXTINF:-1 group-title="HS央卫直播",四川卫视
+http://45.192.97.170:8880/play/108.m3u8
+#EXTINF:-1 group-title="HS央卫直播",河南卫视
+http://45.192.97.170:8880/play/109.m3u8
+#EXTINF:-1 group-title="HS央卫直播",东南卫视
+http://45.192.97.170:8880/play/110.m3u8
+#EXTINF:-1 group-title="HS央卫直播",贵州卫视
+http://45.192.97.170:8880/play/111.m3u8
+#EXTINF:-1 group-title="HS央卫直播",江西卫视
+http://45.192.97.170:8880/play/112.m3u8
+#EXTINF:-1 group-title="HS央卫直播",辽宁卫视
+http://45.192.97.170:8880/play/113.m3u8
+#EXTINF:-1 group-title="HS央卫直播",安徽卫视
+http://45.192.97.170:8880/play/114.m3u8
+#EXTINF:-1 group-title="HS央卫直播",河北卫视
+http://45.192.97.170:8880/play/115.m3u8
+#EXTINF:-1 group-title="HS央卫直播",山东卫视
+http://45.192.97.170:8880/play/116.m3u8
+#EXTINF:-1 group-title="HS央卫直播",天津卫视
+http://45.192.97.170:8880/play/117.m3u8
+#EXTINF:-1 group-title="HS央卫直播",吉林卫视
+http://45.192.97.170:8880/play/118.m3u8
+#EXTINF:-1 group-title="HS央卫直播",陕西卫视
+http://45.192.97.170:8880/play/119.m3u8
+#EXTINF:-1 group-title="HS央卫直播",宁夏卫视
+http://45.192.97.170:8880/play/120.m3u8
+#EXTINF:-1 group-title="HS央卫直播",内蒙古卫视
+http://45.192.97.170:8880/play/121.m3u8
+#EXTINF:-1 group-title="HS央卫直播",云南卫视
+http://45.192.97.170:8880/play/122.m3u8
+#EXTINF:-1 group-title="HS央卫直播",山西卫视
+http://45.192.97.170:8880/play/123.m3u8
+#EXTINF:-1 group-title="HS央卫直播",青海卫视
+http://45.192.97.170:8880/play/124.m3u8
+#EXTINF:-1 group-title="HS央卫直播",西藏卫视
+http://45.192.97.170:8880/play/125.m3u8
+#EXTINF:-1 group-title="HS央卫直播",新疆卫视
+http://45.192.97.170:8880/play/126.m3u8
+#EXTINF:-1 group-title="HS央卫直播",CETV-1
+http://45.192.97.170:8880/play/127.m3u8
+#EXTINF:-1 group-title="HS央卫直播",国学频道
+http://45.192.97.170:8880/play/128.m3u8
 #EXTINF:-1 group-title="HS国内地方",七台河新闻综合
 http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 #EXTINF:-1 group-title="HS国内地方",万州三峡移民
@@ -11910,61 +12162,89 @@ http://111.196.135.80:20000/rtp/239.3.1.199:9000
 #EXTINF:-1 group-title="HS数字频道",华数动画
 http://111.196.135.80:20000/rtp/239.3.1.80:4120
 #EXTINF:-1 group-title="HS数字频道",华数爱上4K
-http://114.254.35.125:8888/rtp/239.3.1.236:2000
+http://114.254.33.14:8888/rtp/239.3.1.236:2000
 #EXTINF:-1 group-title="HS数字频道",华数星影
-http://114.254.35.125:8888/rtp/239.3.1.94:4120
+http://114.254.33.14:8888/rtp/239.3.1.94:4120
 #EXTINF:-1 group-title="HS数字频道",华数动作影院
-http://114.254.35.125:8888/rtp/239.3.1.92:4120
+http://114.254.33.14:8888/rtp/239.3.1.92:4120
 #EXTINF:-1 group-title="HS数字频道",华数喜剧影院
-http://114.254.35.125:8888/rtp/239.3.1.91:4120
+http://114.254.33.14:8888/rtp/239.3.1.91:4120
 #EXTINF:-1 group-title="HS数字频道",华数家庭影院
-http://114.254.35.125:8888/rtp/239.3.1.93:4120
+http://114.254.33.14:8888/rtp/239.3.1.93:4120
 #EXTINF:-1 group-title="HS数字频道",华数精选
-http://114.254.35.125:8888/rtp/239.3.1.74:4120
+http://114.254.33.14:8888/rtp/239.3.1.74:4120
 #EXTINF:-1 group-title="HS数字频道",华数经典电影
-http://114.254.35.125:8888/rtp/239.3.1.195:9024
+http://114.254.33.14:8888/rtp/239.3.1.195:9024
 #EXTINF:-1 group-title="HS数字频道",华数热播剧场
-http://114.254.35.125:8888/rtp/239.3.1.194:9020
+http://114.254.33.14:8888/rtp/239.3.1.194:9020
 #EXTINF:-1 group-title="HS数字频道",华数军旅剧场
-http://114.254.35.125:8888/rtp/239.3.1.68:4120
+http://114.254.33.14:8888/rtp/239.3.1.68:4120
 #EXTINF:-1 group-title="HS数字频道",华数城市剧场
-http://114.254.35.125:8888/rtp/239.3.1.67:4120
+http://114.254.33.14:8888/rtp/239.3.1.67:4120
 #EXTINF:-1 group-title="HS数字频道",华数武侠剧场
-http://114.254.35.125:8888/rtp/239.3.1.90:4120
+http://114.254.33.14:8888/rtp/239.3.1.90:4120
 #EXTINF:-1 group-title="HS数字频道",华数魅力时尚
-http://114.254.35.125:8888/rtp/239.3.1.196:9012
+http://114.254.33.14:8888/rtp/239.3.1.196:9012
 #EXTINF:-1 group-title="HS数字频道",华数少儿动画
-http://114.254.35.125:8888/rtp/239.3.1.199:9000
+http://114.254.33.14:8888/rtp/239.3.1.199:9000
 #EXTINF:-1 group-title="HS数字频道",华数动画
-http://114.254.35.125:8888/rtp/239.3.1.80:4120
+http://114.254.33.14:8888/rtp/239.3.1.80:4120
 #EXTINF:-1 group-title="HS数字频道",华数爱上4K
-http://114.254.85.67:4022/rtp/239.3.1.236:2000
+http://114.254.38.234:8888/rtp/239.3.1.236:2000
 #EXTINF:-1 group-title="HS数字频道",华数星影
-http://114.254.85.67:4022/rtp/239.3.1.94:4120
+http://114.254.38.234:8888/rtp/239.3.1.94:4120
 #EXTINF:-1 group-title="HS数字频道",华数动作影院
-http://114.254.85.67:4022/rtp/239.3.1.92:4120
+http://114.254.38.234:8888/rtp/239.3.1.92:4120
 #EXTINF:-1 group-title="HS数字频道",华数喜剧影院
-http://114.254.85.67:4022/rtp/239.3.1.91:4120
+http://114.254.38.234:8888/rtp/239.3.1.91:4120
 #EXTINF:-1 group-title="HS数字频道",华数家庭影院
-http://114.254.85.67:4022/rtp/239.3.1.93:4120
+http://114.254.38.234:8888/rtp/239.3.1.93:4120
 #EXTINF:-1 group-title="HS数字频道",华数精选
-http://114.254.85.67:4022/rtp/239.3.1.74:4120
+http://114.254.38.234:8888/rtp/239.3.1.74:4120
 #EXTINF:-1 group-title="HS数字频道",华数经典电影
-http://114.254.85.67:4022/rtp/239.3.1.195:9024
+http://114.254.38.234:8888/rtp/239.3.1.195:9024
 #EXTINF:-1 group-title="HS数字频道",华数热播剧场
-http://114.254.85.67:4022/rtp/239.3.1.194:9020
+http://114.254.38.234:8888/rtp/239.3.1.194:9020
 #EXTINF:-1 group-title="HS数字频道",华数军旅剧场
-http://114.254.85.67:4022/rtp/239.3.1.68:4120
+http://114.254.38.234:8888/rtp/239.3.1.68:4120
 #EXTINF:-1 group-title="HS数字频道",华数城市剧场
-http://114.254.85.67:4022/rtp/239.3.1.67:4120
+http://114.254.38.234:8888/rtp/239.3.1.67:4120
 #EXTINF:-1 group-title="HS数字频道",华数武侠剧场
-http://114.254.85.67:4022/rtp/239.3.1.90:4120
+http://114.254.38.234:8888/rtp/239.3.1.90:4120
 #EXTINF:-1 group-title="HS数字频道",华数魅力时尚
-http://114.254.85.67:4022/rtp/239.3.1.196:9012
+http://114.254.38.234:8888/rtp/239.3.1.196:9012
 #EXTINF:-1 group-title="HS数字频道",华数少儿动画
-http://114.254.85.67:4022/rtp/239.3.1.199:9000
+http://114.254.38.234:8888/rtp/239.3.1.199:9000
 #EXTINF:-1 group-title="HS数字频道",华数动画
-http://114.254.85.67:4022/rtp/239.3.1.80:4120
+http://114.254.38.234:8888/rtp/239.3.1.80:4120
+#EXTINF:-1 group-title="HS数字频道",华数爱上4K
+http://114.254.87.92:4022/rtp/239.3.1.236:2000
+#EXTINF:-1 group-title="HS数字频道",华数星影
+http://114.254.87.92:4022/rtp/239.3.1.94:4120
+#EXTINF:-1 group-title="HS数字频道",华数动作影院
+http://114.254.87.92:4022/rtp/239.3.1.92:4120
+#EXTINF:-1 group-title="HS数字频道",华数喜剧影院
+http://114.254.87.92:4022/rtp/239.3.1.91:4120
+#EXTINF:-1 group-title="HS数字频道",华数家庭影院
+http://114.254.87.92:4022/rtp/239.3.1.93:4120
+#EXTINF:-1 group-title="HS数字频道",华数精选
+http://114.254.87.92:4022/rtp/239.3.1.74:4120
+#EXTINF:-1 group-title="HS数字频道",华数经典电影
+http://114.254.87.92:4022/rtp/239.3.1.195:9024
+#EXTINF:-1 group-title="HS数字频道",华数热播剧场
+http://114.254.87.92:4022/rtp/239.3.1.194:9020
+#EXTINF:-1 group-title="HS数字频道",华数军旅剧场
+http://114.254.87.92:4022/rtp/239.3.1.68:4120
+#EXTINF:-1 group-title="HS数字频道",华数城市剧场
+http://114.254.87.92:4022/rtp/239.3.1.67:4120
+#EXTINF:-1 group-title="HS数字频道",华数武侠剧场
+http://114.254.87.92:4022/rtp/239.3.1.90:4120
+#EXTINF:-1 group-title="HS数字频道",华数魅力时尚
+http://114.254.87.92:4022/rtp/239.3.1.196:9012
+#EXTINF:-1 group-title="HS数字频道",华数少儿动画
+http://114.254.87.92:4022/rtp/239.3.1.199:9000
+#EXTINF:-1 group-title="HS数字频道",华数动画
+http://114.254.87.92:4022/rtp/239.3.1.80:4120
 #EXTINF:-1 group-title="HS数字频道",华数爱上4K
 http://123.118.60.232:8686/rtp/239.3.1.236:2000
 #EXTINF:-1 group-title="HS数字频道",华数星影
