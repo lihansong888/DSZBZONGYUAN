@@ -40,6 +40,8 @@ GROUP_MAP = {
     "HS咪咕": "HSali云咪咕央卫",
     
     "hansong央视频道": "HS央视频道",
+    "lihansong央视备用": "HS央视频道",
+    
     "HS央视频道": "HS央视频道",
     "SH央视频道": "HS央视频道",
     "HS卫视频道": "HS卫视频道",
@@ -49,8 +51,13 @@ GROUP_MAP = {
     "Free-TV/IPTV": "HS央卫IPTV",
     "IPTV组播源": "HSIPTV组播",
     "Z视介": "HS-Z视介",
+    "咪-世-界": "HS-咪世界",
+    
     "咪咕央卫": "HS咪咕央卫直播",
     "hansong-央卫直播": "HS央卫直播",
+    "lihansong央卫": "HS央卫直播",
+    "lihansong央卫备用": "HS央卫直播",
+    
     "hansong国内地方": "HS国内地方",
     
     "地方频道": "HS国内地方",
